@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/183
     wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43394#Through-Glacier-Parkseeing-America-first-with-Howard-Eaton
 gutenberg_issued: '2013-08-03'
 gutenberg_type: Text
 identifiers:
