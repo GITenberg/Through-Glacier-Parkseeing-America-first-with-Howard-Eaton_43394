@@ -1,0 +1,30 @@
+_repo: Through-Glacier-Parkseeing-America-first-with-Howard-Eaton_43394
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43394-h/images/cover-full.jpg
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: ''
+gutenberg_issued: '2013-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F721'
+- !lcsh 'Eaton, Howard, 1851-1922'
+- !lcsh 'Rinehart, Mary Roberts, 1876-1958 -- Travel -- Montana -- Glacier National
+  Park'
+- !lcsh 'Glacier National Park (Mont.) -- Description and travel'
+title: 'Through Glacier Park: Seeing America First with Howard Eaton'
+url: http://www.gutenberg.org/ebooks/43394
